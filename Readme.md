@@ -1,10 +1,32 @@
-
 <div align = "center">
 
 ## 🍂 3 - 2 Semester Course Resources
 
 **⭐⭐⭐ Star The Repositry for Daily Updates⭐⭐⭐**
 
-<div>
+
+</div>
+
+<hr>
+
+
+
+<div align = "center">
+
+### [✍️ Class Routine](https://drive.google.com/drive/folders/1SH-k3BpEODusridjwVIDkY_f2dCIRJKm)   [👉 Syllabus](https://drive.google.com/drive/folders/1SH-k3BpEODusridjwVIDkY_f2dCIRJKm)
+
+
+</div>
+
+<hr>
+
+#### 😀 Software Verification and Validation [👉 Syllabus](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Software%20Verification%20-%20Validation) 
+
+#### 😁 Software Verification and Validation Lab [👉 Syllabus](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Software%20Verification%20-%20Validation)
+
+#### 🤧 Technical Writing and Presenation [👉 Syllabus](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Technical%20Writting%20-%20Presentation)
+
+
+#### 😉 350 Project [👉 Syllabus](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Technical%20Writting%20-%20Presentation)
 
 
