@@ -1,19 +1,17 @@
 
-## 🍂 Theory Syllabus
+## 🍂 Course Outline
 
-- **👉Chapter 1 - 8**
+- **😉Course Syllabus [👉 Syllabus](https://docs.google.com/spreadsheets/d/12ua10iRYLtxTWi05jBSAxEMM_104nTr8S4nC2cmN9BQ/edit#gid=0)**
+- **😉Drive Resources [👉 Drive Link](https://drive.google.com/drive/folders/1TjCbIjqjO16qfL_8k5Ssa6s1ZUJpEk2D)**
 
-## 🎅 Lab Syllabus
 
-- **👉 Unit Testing (Java/Python)**
-- **👉 Mockito**
-- **👉 Test Automation (Framework - Selenium/Appium)**
 
 
 ## 🔍 Topic Covered
 
-#### 👉 Chapter 1
-- **✍️ 1.3 - Software Testing—Myths and Facts**
-- **✍️ 1.4 - Goals of Software Testing**
-    - **✍️ Post-implementation Goals**
+#### 👉 Day 1 (21-8-23)
+- **✍️ Linear Transformation**
+- **✍️ Linear Regression**
+
+![](../Machine%20Learning/Lecture/21-8-23.png)
 
