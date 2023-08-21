@@ -20,13 +20,16 @@
 
 <hr>
 
-#### 😀 Software Verification and Validation [👉 Syllabus](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Software%20Verification%20-%20Validation) 
+#### 😀 Software Verification and Validation [👉 Resource](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Software%20Verification%20-%20Validation) 
 
-#### 😁 Software Verification and Validation Lab [👉 Syllabus](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Software%20Verification%20-%20Validation)
+#### 😁 Software Verification and Validation Lab [👉 Resource](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Software%20Verification%20-%20Validation)
 
-#### 🤧 Technical Writing and Presenation [👉 Syllabus](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Technical%20Writting%20-%20Presentation)
+#### 🤧 Technical Writing and Presenation [👉 Resource](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Technical%20Writting%20-%20Presentation)
 
 
-#### 😉 350 Project [👉 Syllabus](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Technical%20Writting%20-%20Presentation)
+#### 😉 350 Project [👉 Resource](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Technical%20Writting%20-%20Presentation)
+
+
+#### 😎 Machine Learning [👉 Resource](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Machine%20Learning)
 
 
