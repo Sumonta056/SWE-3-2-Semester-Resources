@@ -12,5 +12,8 @@
 - **✍️ Linear Transformation**
 - **✍️ Linear Regression**
 
+
+![](../Machine%20Learning/Lecture/21-8-23.jpg)
+
 ![](../Machine%20Learning/Lecture/21-8-23.png)
 
