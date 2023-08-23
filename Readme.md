@@ -32,4 +32,7 @@
 
 #### 😎 Machine Learning [👉 Resource](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Machine%20Learning)
 
+#### 🤧 Distributed System [👉 Resource](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Distributed%20System)
+
+
 
