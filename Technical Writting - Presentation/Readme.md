@@ -19,3 +19,15 @@
 - **✍️ SCIE**
 - **✍️ SCOPUS**
 
+## 🍂 Task - 1 : Technical Reading : Presentation on a Research Paper
+
+## 🍂 Task - 2 : Technical Writing : Draft of Your Research Proposal
+
+## 🍂 Task - 3 : Technical Writing : Complete Proposal of Your Research
+
+
+
+
+
+
+
