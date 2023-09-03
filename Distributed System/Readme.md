@@ -7,9 +7,11 @@
 
 - **👉 Task - 1 : Peer to Peer Chat Application**
     - **✍️ Socket Programming + Raw Javascript**
+## 😀 Resource
 
-
-
+- **👉 [Drive Link](https://drive.google.com/drive/folders/1Vem9Z08S3yWvFLdbf57wafB3gGRPLPiu)**
+- **👉 [system-design-primer](https://github.com/donnemartin/system-design-primer)**
+ 
 ## 🔍 Topic Covered
 
 #### 👉 Chapter 1
