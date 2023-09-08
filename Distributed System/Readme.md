@@ -29,3 +29,18 @@
     - **👉 Physical Model**
     - **👉 Architectural Model**
     - **👉 Fundamental Model**
+
+
+#### 👉 Chapter 3
+- **✍️ OSI 7 Layer**
+    - **👉 Session Layer**
+    - **👉 Transport Layer**
+    - **👉 Network Layer**
+    - **👉 Data Link Layer**
+    - **👉 Physical Layer**
+
+
+#### 👉 Chapter 4
+- **✍️ Inter-process Communication**
+- **✍️ Socket Programming**
+  
