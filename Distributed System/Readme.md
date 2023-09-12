@@ -3,10 +3,19 @@
 
 - **👉 Waiting**
 
-## 🎅 Lab Syllabus
+## 🎅 Lab Task
 
-- **👉 Task - 1 : Peer to Peer Chat Application**
-    - **✍️ Socket Programming + Raw Javascript**
+- **👉 Task - 1 : Socket Programming [ Peer to Peer Chat Application ]**
+    - **✍️  Create multiple client so that the clients can interact with the server.**
+        - Multiple client to one server
+    - **✍️  Configure the server so that the clients can talk to each other**
+        - Specfic client to specific client middleman using server
+    - **✍️  client - Webhook - central server - webhook - client**
+    - **✍️  Resources 👍**
+        - **Socket.io Java Library**
+        - **Thread Pool**
+        - **Webhook**
+
 ## 😀 Resource
 
 - **👉 [Drive Link](https://drive.google.com/drive/folders/1Vem9Z08S3yWvFLdbf57wafB3gGRPLPiu)**
