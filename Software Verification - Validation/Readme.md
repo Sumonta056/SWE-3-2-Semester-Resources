@@ -6,6 +6,7 @@
 ## 🎅 Lab Syllabus
 
 - **👉 Unit Testing (Java/Python)**
+    - **⛑️ Unit Testing : JUNIT**
 - **👉 Mockito**
 - **👉 Test Automation (Framework - Selenium/Appium)**
 
@@ -28,3 +29,21 @@
 - **✍️ Testing Execution Level**
     - **✍️ Regression Testing**
 - **⛑️ Unit Testing : JUNIT**
+
+
+#### 👉 Chapter - 3
+
+- **✍️ Verification vs validation**
+- **✍️ V-Diagram and V-Testing**
+- **✍️ Figure 3.4 V&V Diagram**
+
+
+#### 👉 Chapter - 4
+
+- **✍️ Testing Category and Techniques**
+- **✍️ Dynamic Testing**
+- **✍️ Black Box Testing**
+- **✍️ White Box Testing**
+- **✍️ Boundary Value Analysis**
+- **✍️ Worst Case Testing**
+- **✍️ Roboustness Testinng**
