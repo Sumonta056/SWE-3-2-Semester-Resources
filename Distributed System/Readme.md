@@ -52,4 +52,26 @@
 #### 👉 Chapter 4
 - **✍️ Inter-process Communication**
 - **✍️ Socket Programming**
+
+
+#### 👉 Chapter - 3 Communication
+- **✍️ Layered Protocol : OSI Model**
+- **✍️ Remote Procedure Cell (RPC)**
+    - **✍️ Client-Server Stub**
+    - **✍️ Steps RPC**
+- **✍️ Remote Object Invocation**
+    - **✍️ RMI vs RPC**
+- **✍️ Message Oriented Communicaton**
+    - **✍️ Presistent vs Transient**
+    - **✍️ Synchronous vs Asynchronous**
+    - **✍️ Presistent Synchronous**
+    - **✍️ Presistent Asynchronous**
+    - **✍️ Transient Synchronous**
+    - **✍️ Transient Asynchronous**
+    - **✍️ Delivery Base Transient Synchronous**
+    - **✍️ Response Base Transient Synchronous**
+    - **✍️ Berkeley Socket**
+         - **✍️ Message Queue Model**
+         - **✍️ Synchronous to Asynchronous**
+
   
