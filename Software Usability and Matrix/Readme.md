@@ -14,3 +14,8 @@
 
 ![](Lecture/2.jpg)
 ![](Lecture/2s.jpg)
+
+#### 👉 Day 2 : Chapter 3
+
+- **Highlighted Topics from Software Matrix Book ( [👉 Click Here](./software%20matrix.pdf) )**
+
