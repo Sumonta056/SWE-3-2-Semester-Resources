@@ -1,4 +1,3 @@
-
 ## 🍂 Theory Syllabus
 
 - **👉Chapter 1 - 8**
@@ -6,19 +5,20 @@
 ## 🎅 Lab Syllabus
 
 - **👉 Unit Testing (Java/Python)**
-    - **⛑️ Unit Testing : JUNIT**
+  - **⛑️ Unit Testing : JUNIT**
 - **👉 Mockito**
 - **👉 Test Automation (Framework - Selenium/Appium)**
-
 
 ## 🔍 Topic Covered
 
 #### 👉 Chapter 1
+
 - **✍️ 1.3 - Software Testing—Myths and Facts**
 - **✍️ 1.4 - Goals of Software Testing**
-    - **✍️ Post-implementation Goals**
+  - **✍️ Post-implementation Goals**
 
 #### 👉 Chapter 2
+
 - **✍️ Difference Between Error-Bug-Failure**
 - **✍️ Why error occurs?**
 - **✍️ Proterties to identify test case**
@@ -27,16 +27,14 @@
 - **✍️ Classification of bug**
 - **✍️ Software testing life cycle**
 - **✍️ Testing Execution Level**
-    - **✍️ Regression Testing**
+  - **✍️ Regression Testing**
 - **⛑️ Unit Testing : JUNIT**
-
 
 #### 👉 Chapter - 3
 
 - **✍️ Verification vs validation**
 - **✍️ V-Diagram and V-Testing**
 - **✍️ Figure 3.4 V&V Diagram**
-
 
 #### 👉 Chapter - 4
 
@@ -48,7 +46,11 @@
 - **✍️ Worst Case Testing**
 - **✍️ Roboustness Testinng**
 
+#### 👉 Unit Test Lab Task
 
-#### 👉 Unit Test Lab
+- **✍️ Class diagram scenario**
+- **✍️ Example : Library management system**
+- **✍️ 100% test coverage**
+- **✍️ Resources : [JUNIT](https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api/5.10.0)**
 
 ![](./12.jpg)

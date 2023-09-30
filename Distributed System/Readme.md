@@ -73,5 +73,15 @@
     - **✍️ Berkeley Socket**
          - **✍️ Message Queue Model**
          - **✍️ Synchronous to Asynchronous**
+- **✍️ Stream Orientented**
+    - **✍️ Discrete**
+    - **✍️ Continous**
+- **✍️ Type of Stream**
+    - **✍️ Simple Stream**
+    - **✍️ Complex Stream**
+    - **✍️ Sub Stream**
+- **✍️ Stream and quality of services**
+    - **✍️ RSVP**
+- **✍️ Stream Sychronization**
 
   
