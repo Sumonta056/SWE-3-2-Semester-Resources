@@ -19,11 +19,12 @@
 - **✍️ SCIE**
 - **✍️ SCOPUS**
 
-## 🍂 Task - 1 : Technical Reading : Presentation on a Research Paper
+## 🍂 Vehicle Number Plate Detection Project ([👉 Click Here](https://github.com/Sumonta056/Bangladeshi-Vehicle-Number-Plate-Detection))
+#### 🍂 Task - 1 : Technical Reading : Presentation on a Research Paper
 
-## 🍂 Task - 2 : Technical Writing : Draft of Your Research Proposal
+#### 🍂 Task - 2 : Technical Writing : Draft of Your Research Proposal
 
-## 🍂 Task - 3 : Technical Writing : Complete Proposal of Your Research
+#### 🍂 Task - 3 : Technical Writing : Complete Proposal of Your Research
 
 
 ![Alt text](title1-1.jpg)
