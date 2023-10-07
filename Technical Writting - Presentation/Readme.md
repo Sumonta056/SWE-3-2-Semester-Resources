@@ -26,8 +26,11 @@
 ## 🍂 Task - 3 : Technical Writing : Complete Proposal of Your Research
 
 
+![Alt text](title1-1.jpg)
+![Alt text](title2-1.jpg)
 
+![Alt text](Introduction-1.jpg)
 
-
+![Alt text](<Literature Review-1.jpg>)
 
 
