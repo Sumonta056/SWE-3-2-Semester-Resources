@@ -16,6 +16,14 @@
         - **Thread Pool**
         - **Webhook**
 
+- **👉 Task - 2 : Producer - Consumer Management System using gRPC**
+    - **✍️  Step - 1 ; Registration and save at mysql data (encrypt password)**
+   - **✍️  Step - 2 ; Login based on that**
+   - **✍️  Step - 3 ; Set profile**
+   - **✍️  Step - 4 ; Profile view**
+   - **✍️  Step - 5 ; Update Profile**
+  
+
 ## 😀 Resource
 
 - **👉 [Drive Link](https://drive.google.com/drive/folders/1Vem9Z08S3yWvFLdbf57wafB3gGRPLPiu)**
@@ -84,4 +92,18 @@
     - **✍️ RSVP**
 - **✍️ Stream Sychronization**
 
-  
+
+#### 👉 Client and server stub
+- **✍️ RPC : gRPC Framework**
+- **✍️ The motivation of gRPC**
+- **✍️ What is RPC ?**
+- **✍️ How gRPC works?**
+- **✍️ How stubs are generated ?**
+- **✍️ Why gRPC uses Protocol Buffer?**
+- **✍️ What make gRPC efficient?**
+    - **✍️ Multiplexing**
+    - **✍️ What is binary-framing**
+- **✍️ How HTTP/2 works under the hood**
+- **✍️ HTTP/2 vs HTTP/1.1**
+- **✍️ Types of gRPC(4)**
+- **✍️ gRPC vs REST**
