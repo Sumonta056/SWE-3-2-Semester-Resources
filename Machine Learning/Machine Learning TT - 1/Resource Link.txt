@@ -1,0 +1,13 @@
+Supervised Learning Course Full
+
+https://www.coursera.org/learn/machine-learning/home/week/1
+
+Neural Networks
+
+https://youtu.be/bfmFfD2RIcg?si=An-CzM59LMBdDHPN
+
+Convolution Neural Network
+
+https://youtu.be/zfiSAzpy9NM?si=rJwxjOnmp3F5GnD5
+
+https://youtu.be/BU3fG2_3P5o?si=TuYGY6MkjA6Bstfs

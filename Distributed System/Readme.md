@@ -42,7 +42,7 @@
     - **👉 Quality of Service**
 
 #### 👉 Chapter 2
-- **✍️ System Moded**
+- **✍️ System Model**
     - **👉 Physical Model**
     - **👉 Architectural Model**
     - **👉 Fundamental Model**

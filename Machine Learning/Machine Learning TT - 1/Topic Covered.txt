@@ -1,0 +1,54 @@
+1st class:
+
+algebra: matrix, vector
+linear transformation
+vector transformation
+linear regression
+
+2nd+3rd:
+loss func
+lms func
+gredient descent
+stochastic variable
+classification
+matrix derivation (cheat sheet)
+
+4th: 
+binary+multiclass
+decision boundary
+
+lab:
+2) dataset read+output generate
+3) understand notebook
+
+assignment: 
+1) matrix calculation chain rule cheat sheet
+2) linear regression notebook - data  control plot generate, gredient dessert
+
+
+
+next class: 
+underfit
+high-biased
+regularization
+boosting
+bagging
+
+updated cost function
+
+next:
+cnn intuitions
+gray scale immage
+resolation
+loopy pattern filter
+vertical line filter
+diagonal line filter
+kernel channel
+relu activation func
+
+next:
+support vector machine
+polynomial kernel
+radial basis func kernel
+svm dual
+dot product

@@ -44,7 +44,7 @@
 - **✍️ White Box Testing**
 - **✍️ Boundary Value Analysis**
 - **✍️ Worst Case Testing**
-- **✍️ Roboustness Testinng**
+- **✍️ Roboustness Testing**
 
 #### 👉 Unit Test Lab Task
 
@@ -54,3 +54,43 @@
 - **✍️ Resources : [JUNIT](https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api/5.10.0)**
 
 ![](./12.jpg)
+
+
+#### 👉 Chapter - 5
+
+#### 👉 Chapter - 6
+- **✍️ Static Type Testing**
+- **✍️ Inspection Process  6.1.2**
+- **✍️ Glib inspection process**
+- **✍️ Hwphreg process**
+- **✍️ N-Fold Inspection**
+- **✍️ Structured Walk-Through 6.2**
+- **✍️ Technical Review**
+
+
+#### 👉 Chapter - 7
+- **✍️  Decomposition-Based Integration**
+- **✍️ Step-by-Step Diagram**
+- **✍️ Top-Down vs. Bottom-Up**
+- **✍️ Call Graph Based Integration Types**
+- **✍️ Path Based Integration**
+- **✍️ MEP Graph - MM Path**
+- **✍️ Load and Stress Testing**
+- **✍️ Acceptance Testing**
+- **✍️ Alpha-Beta Testing**
+- **✍️ Integration Testing + Types**
+
+#### 👉 Term Test - 1 : 1 - 5
+#### 👉 Final : 1 - 7
+
+
+#### 👉 Lab Final
+- **✍️  Unit Testing**
+- **✍️ Apache Jmeter Stress Testing and Load Testing**
+- **✍️ Mockito**
+- **✍️ Selenium WebDriver UI Testing**
+- **✍️ Test Automation Script**
+
+
+
+
