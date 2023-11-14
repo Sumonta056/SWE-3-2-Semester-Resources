@@ -25,7 +25,12 @@
 
 #### 👉 Chapter 5
 
+- **"Object-Oriented Design Metrics eita bade Sob" - Partha Sir**
+
+
 #### 👉 Chapter 6
+
+- **Chapter 6 er cone graph ace last er dike oita - Partha Sir**
 
 #### 👉 Chapter 7
 
