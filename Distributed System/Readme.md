@@ -107,3 +107,13 @@
 - **✍️ HTTP/2 vs HTTP/1.1**
 - **✍️ Types of gRPC(4)**
 - **✍️ gRPC vs REST**
+
+
+#### 👉 Indexing.PPTX + Bplus pdf
+- **✍️ Dense Index + Indexing Type**
+- **✍️ B+ Tree**
+- **✍️ Why indexing and What happened if database is not indexed**
+
+
+#### 👉 Hadoop
+- **✍️ DFS , Map-Reduce**
