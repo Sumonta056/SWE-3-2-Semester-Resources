@@ -17,5 +17,18 @@
 
 #### 👉 Day 2 : Chapter 3
 
-- **Highlighted Topics from Software Matrix Book ( [👉 Click Here](./software%20matrix.pdf) )**
+- **Highlighted Topics from Software Matrix Book ( [👉 Click Here](./Chapter%20-%203.pdf) )**
+
+#### 👉 Chapter 4
+
+- **Highlighted Topics from Software Matrix Book ( [👉 Click Here](./Chapter-4.pdf) )**
+
+#### 👉 Chapter 5
+
+#### 👉 Chapter 6
+
+#### 👉 Chapter 7
+
+- **Highlighted Topics from Software Matrix Book ( [👉 Click Here](./Chapter%20-%207.pdf) )**
+
 
