@@ -109,6 +109,19 @@
 - **✍️ gRPC vs REST**
 
 
+#### 👉 Transaction
+- **✍️ Required Properties of a Transaction : ACID Properties**
+- **✍️ Question : Given Scenario : Now tell which Acid Properties its violates**
+- **✍️ Transaction States**
+- **✍️ Why Concurrent Executions**
+- **✍️ Schedule : Serial Schedule**
+- **✍️ Serializability**
+- **✍️ Conflict Serializability**
+- **✍️ Precedence Graph Decide a graph conflict serializable ?**
+- **✍️ Recover Schedule**
+- **✍️ Cascading Rollback vs Cascadless**
+
+
 #### 👉 Indexing.PPTX + Bplus pdf
 - **✍️ Dense Index + Indexing Type**
 - **✍️ B+ Tree**
