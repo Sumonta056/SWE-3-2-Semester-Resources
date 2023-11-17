@@ -57,6 +57,10 @@
 
 
 #### 👉 Chapter - 5
+- **✍️ Marked Topics From This Pdf [(Chapter - 5)](./Chapter%205%20Sir.pdf)**
+
+
+
 
 #### 👉 Chapter - 6
 - **✍️ Static Type Testing**
