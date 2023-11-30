@@ -31,6 +31,10 @@
  
 ## 🔍 Topic Covered
 
+<hr>
+
+### 😀 Term Test - 01 : Syllabus
+
 #### 👉 Chapter 1
 - **✍️ Characteristic of Distributed System**
     - **👉 Heterogenity**
@@ -108,6 +112,19 @@
 - **✍️ Types of gRPC(4)**
 - **✍️ gRPC vs REST**
 
+<hr>
+
+### 😀 Term Test - 02 : Syllabus
+
+#### 👉 Chapter 06: Indirect Communication 
+
+#### 👉 Distributed Shared Memory 
+
+#### 👉 Chapter 08 : Synchronization in Distributed System
+
+<hr>
+
+### 😀 Extra For Final : Syllabus
 
 #### 👉 Transaction
 - **✍️ Required Properties of a Transaction : ACID Properties**
@@ -130,3 +147,4 @@
 
 #### 👉 Hadoop
 - **✍️ DFS , Map-Reduce**
+
