@@ -5,21 +5,29 @@
 
 
 
+## 🍂 Machine Learning Video Resource
+
+
+- **😉Supervised Machine Learning Learning  [👉 Coursera Coursee](https://www.coursera.org/learn/machine-learning/home/week/1)**
+
+- **😉Mahesh Huddar : Machine Learning [👉 Youtube Channel](https://www.youtube.com/@MaheshHuddar/featured)**
+
+- **😉Introduction To Machine Learning [👉 Youtube Playlist](https://youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P&si=wZwVCRamUhL6G44K)**
+
+- **😉Machine Learning : StatQuest with Josh Starmer [👉 Youtube Playlist](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&si=k6Czv26h8KST4CYY)**
+
+- **😉Data Science + Deep Learning [👉 Youtube Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV&si=TqzcknvP9o3Tjk5v)**
+
+
+- **😉Machine Learning by Mahesh Huddar[👉 Youtube Playlist](https://youtube.com/playlist?list=PL4gu8xQu0_5JBO1FKRO5p20wc8DprlOgn&si=CFndqFxAeV2JVarQ)**
+
+
+
+
 
 ## 🔍 Topic Covered
 
-#### 👉 Day 1 (21-8-23)
-- **✍️ Linear Transformation**
-- **✍️ Linear Regression**
-
-
-![](../Machine%20Learning/Lecture/21-8-23.jpg)
-
-![](../Machine%20Learning/Lecture/21-8-23.png)
-
-
-#### 👉 Day 2 (4-9-23)
-- **✍️ [Lecture 2](/Machine%20Learning/Slide/CS229_lecture_2.pdf)**
+- **✍️ Some Questions + Check Lecture Folder**
     - Which of the following is an example of a **supervised learning** problem?
     - Which of the following is a key assumption of linear regression?
 
@@ -28,6 +36,12 @@
     - What problem does regularization aim to address in machine learning models?
 
 
-- **✍️Regular Regression ( Regularization )**
-![Alt text](image-1.png)
-![Alt text](image.png)
+- **✍️ Check Machine Learning TT-1 Folder**
+
+- **✍️ Check Machine Learning TT-2 Folder**
+
+
+- **✍️ Unsupervised Learning**
+- **✍️ K means Clustering**
+- **✍️ Check Machine Learning TT-2 Folder**
+- **✍️ Check Machine Learning TT-2 Folder**
