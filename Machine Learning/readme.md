@@ -21,13 +21,9 @@
 
 - **😉Machine Learning by Mahesh Huddar[👉 Youtube Playlist](https://youtube.com/playlist?list=PL4gu8xQu0_5JBO1FKRO5p20wc8DprlOgn&si=CFndqFxAeV2JVarQ)**
 
-
-
-
-
 ## 🔍 Topic Covered
 
-- **✍️ Some Questions + Check Lecture Folder**
+<!-- - **✍️ Some Questions + Check Lecture Folder**
     - Which of the following is an example of a **supervised learning** problem?
     - Which of the following is a key assumption of linear regression?
 
@@ -44,4 +40,36 @@
 - **✍️ Unsupervised Learning**
 - **✍️ K means Clustering**
 - **✍️ Check Machine Learning TT-2 Folder**
-- **✍️ Check Machine Learning TT-2 Folder**
+- **✍️ Check Machine Learning TT-2 Folder** -->
+
+
+- Supervised Learning
+    - Linear Regression
+    - Classification
+    - Cost Function
+    - Gradient Descent
+    - Logistic Regression
+    - Polynomial Regression
+    - Underfitting & Overfitting
+    - Regularization
+
+- Neural Network
+    - Binary and Multiclass Classifcation
+    - Neural Network Classification + Cost function
+    - CNNs
+
+- Support Vector Machine + Kernel
+
+- Baye's Theorm + Naive Baye's Theorm
+
+- Principle Component Analysis
+
+- Unsupervised Learning
+  - k-means clustering
+  - 4 types distance: Jaccand, Nuclear, Jaro-winkler, Edit
+
+- Reinforcement learning 
+- Markov decision process (Diajkstra but non-deterministic)
+
+
+
