@@ -70,6 +70,7 @@
 
 - Reinforcement learning 
 - Markov decision process (Diajkstra but non-deterministic)
+- Recall, Precision, Accuracy in Machine Learning
 
 
 
