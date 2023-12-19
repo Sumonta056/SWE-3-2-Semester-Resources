@@ -1,0 +1,31 @@
+Forward Propagation and Backward Propagation | Neural Networks
+
+https://youtu.be/Tb23YtZ92AE?si=RfjVPROvQNH3MphP
+
+https://youtu.be/99CcviQchd8?si=Z7VPZTdOkzSKEBaB
+
+https://www.educative.io/answers/what-is-forward-propagation-in-neural-networks
+
+
+Is Gradient Descent guaranteed to converge to global minimum of Squared Error loss function for Linear Regression?
+
+https://medium.com/@chowdhuryrishav8/is-gradient-descent-guaranteed-to-converge-to-global-minimum-of-squared-error-loss-function-for-698ac4867314
+
+
+Recall, Precision, Accuracy in Machine Learning
+
+https://www.kdnuggets.com/understanding-classification-metrics-your-guide-to-assessing-model-accuracy#:~:text=F1%2DScore,achieving%20a%20balance%20between%20both
+
+https://www.evidentlyai.com/classification-metrics/accuracy-precision-recall
+
+https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4614595/
+
+https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/
+
+
+ROC Curve
+
+https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc#:~:text=An%20ROC%20curve%20(receiver%20operating,model%20at%20all%20classification%20thresholds.
+
