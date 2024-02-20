@@ -2,25 +2,23 @@
 
 ## 🍂 3 - 2 Semester Course Resources
 
-**⭐⭐⭐ Star The Repositry for Daily Updates⭐⭐⭐**
+##### 🏆 I got Cgpa 4.00 in 3-2 Semester. I have shared all the resources that I have used in this semester. I hope it will help you to get a good grade.[👉 Results Link](./3-2%20Result%20(4%20out%20of%204)/)
 
+**⭐⭐⭐ Star The Repositry for Daily Updates⭐⭐⭐**
 
 </div>
 
 <hr>
-
-
 
 <div align = "center">
 
-### [✍️ Class Routine](https://drive.google.com/drive/folders/1SH-k3BpEODusridjwVIDkY_f2dCIRJKm)   [👉 Syllabus](https://drive.google.com/drive/folders/1SH-k3BpEODusridjwVIDkY_f2dCIRJKm)
-
+### [✍️ Class Routine](https://drive.google.com/drive/folders/1SH-k3BpEODusridjwVIDkY_f2dCIRJKm) [👉 Syllabus](https://drive.google.com/drive/folders/1SH-k3BpEODusridjwVIDkY_f2dCIRJKm)
 
 </div>
 
 <hr>
 
-#### 😀 Software Verification and Validation [👉 Resource](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Software%20Verification%20-%20Validation) 
+#### 😀 Software Verification and Validation [👉 Resource](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Software%20Verification%20-%20Validation)
 
 #### 😁 Software Usability Metrics [👉 Resource](https://github.com/Sumonta056/SWE-3-2-Semester-Resources/tree/main/Software%20Usability%20and%20Matrix)
 
