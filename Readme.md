@@ -2,9 +2,10 @@
 
 ## 🍂 3 - 2 Semester Course Resources
 
-##### 🏆 I got Cgpa 4.00 in 3-2 Semester. I have shared all the resources that I have used in this semester. I hope it will help you to get a good grade.[👉 Results Link](./3-2%20Result%20(4%20out%20of%204)/)
 
-**⭐⭐⭐ Star The Repositry for Daily Updates⭐⭐⭐**
+### 🏆 I got Cgpa 4.00 in 3-2 Semester.
+
+> I have shared all the resources that I have used in this semester. I hope it will help you to get a good grade.( [👉 Results Link](<./3-2%20Result%20(4%20out%20of%204)/>) )
 
 </div>
 
