@@ -48,4 +48,18 @@
 
 <hr>
 
+| Course Name                      | Credit | CGPA |
+| :------------------------------- | :----: | ---: |
+| Distributed System               |   2    | 4.00 |
+| Distributed System Lab           |  1.5   | 4.00 |
+| Machine Learning                 |   3    | 4.00 |
+| Machine Learning Lab             |  1.5   | 4.00 |
+| Verification and Validation      |   2    | 4.00 |
+| Verification and Validation Lab  |  1.5   | 4.00 |
+| Software Usability and Metrics   |   2    | 4.00 |
+| Entrepreneurship Development     |   2    | 4.00 |
+| Technical Writing & Presentation |   2    | 4.00 |
+| Project 350                      |   3    | 4.00 |
+| Total                            |  20.5  | 4.00 |
+
 </div>
